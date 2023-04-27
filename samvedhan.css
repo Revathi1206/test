@@ -1,0 +1,135 @@
+body {
+  background: url("background.webp");
+  background-size: cover;
+}
+img.light {
+  height: 100px;
+  width: 600px;
+  position: absolute;
+  top: 45%;
+  left: 23%;
+}
+img.light2 {
+  height: 100px;
+  width: 600px;
+  position: absolute;
+  top: 49%;
+  left: 33%;
+  width: 20%;
+}
+img.code {
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 40%;
+  left: 10%;
+}
+.rgukt {
+  position: absolute;
+  left: 5%;
+  border-radius: 100px;
+  height: 100px;
+  width: 100px;
+}
+p.head {
+  position: absolute;
+  top: 0%;
+  left: 15%;
+  font-size: 30px;
+  letter-spacing: 3px;
+  font-weight: 900;
+  color: rgb(236, 233, 39);
+  font-family: "Times New Roman", Times, serif;
+}
+.fest {
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  left: 72%;
+  top: 34%;
+}
+p {
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  top: 57%;
+  left: 39%;
+  font-family: "Satisfy", cursive;
+  color: rgb(198, 216, 36);
+}
+img.people3 {
+  width: 100%;
+  height: 400px;
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+}
+h1 {
+  font-size: 60px;
+  left: 38%;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  top: 10%;
+  border-radius: 20px;
+  color: rgb(151, 153, 180);
+  font-family: "Russo One", sans-serif;
+  padding: 10px;
+}
+h2 {
+  color: brown;
+  font-family: "Creepster", cursive;
+  font-size: 50px;
+  background-color: rgba(40, 185, 40, 0.5);
+  position: absolute;
+  left: 40%;
+  top: 30%;
+  border-radius: 10px;
+}
+img.logo {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  left: 20%;
+  top: 0%;
+}
+ul.left {
+  position: absolute;
+  bottom: 16%;
+  left: 30%;
+  display: inline;
+  padding-right: 10%;
+  border-left-width: 5px;
+  border-left: 5px solid skyblue;
+  color: rgb(253, 253, 252);
+  background-color: rgba(0, 0, 0, 0.6);
+  font-size: 30px;
+  font-weight: 300;
+  padding-left: 17%;
+  box-shadow: 1rem 1rem 1rem rgba(184, 180, 180, 0.6);
+  border-bottom: 1px rgb(134, 216, 219) solid;
+  border-top: 1px rgb(147, 224, 226) solid;
+  border-right: 1px rgb(132, 221, 224) solid;
+  border-radius: 30px;
+}
+li {
+  padding-bottom: 30px;
+}
+ul.right {
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+  display: inline;
+  padding-right: 10%;
+  border-left-width: 5px;
+  border-left: 5px solid skyblue;
+  color: rgb(253, 253, 252);
+  background-color: rgba(0, 0, 0, 0.6);
+  font-size: 20px;
+  font-weight: 300;
+
+  box-shadow: 1rem 1rem 1rem rgba(184, 180, 180, 0.6);
+  border-bottom: 1px rgb(134, 216, 219) solid;
+  border-top: 1px rgb(147, 224, 226) solid;
+  border-right: 1px rgb(132, 221, 224) solid;
+  border-radius: 30px;
+}
